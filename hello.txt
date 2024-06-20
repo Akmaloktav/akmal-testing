@@ -1,0 +1,2 @@
+Hello
+file ini hanya file yang berisi percobaan menggunakan git
